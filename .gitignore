@@ -51,6 +51,9 @@ ipch/
 *.sdf
 *.cachefile
 
+# Visual C# cache files
+*.v2
+
 # Visual Studio profiler
 *.psess
 *.vsp
@@ -146,3 +149,4 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+/.vs/MovieFrameViewer/DesignTimeBuild
